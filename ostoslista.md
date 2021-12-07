@@ -1,0 +1,4 @@
+- maito
+- sushi
+- jugurtti
+- leipä
