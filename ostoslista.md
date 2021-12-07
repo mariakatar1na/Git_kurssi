@@ -4,3 +4,4 @@
 - leipä
 - parmesaani
 - salaatti
+- karkkia
